@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">exercicio2</string>
+    <string name="texto">Oi!</string>
+    <string name="botao">Trocar usuário</string>
+    <string name="title_activity_outra_acitivity">outraAcitivity</string>
+    <string name="title_activity_outra">outraActivity</string>
+    <string name="b1">Confirmar</string>
+    <string name="b2">Cancelar</string>
+    <string name="t1"></string>
 </resources>
